@@ -1,11 +1,27 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Waqas Abbasi</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Android+Developer;Python+Developer;AI%2FML+Learner;C%2B%2B+Developer;Building+Modern+Applications" />
+</p>
+
 <h3 align="center">
-Android Developer • Python Developer • AI/ML Learner
+Android Developer • Python Developer • AI/ML Learner • C++ Developer
 </h3>
 
 <p align="center">
 Passionate about building modern Android applications, Python projects, and AI-powered solutions with clean UI and smooth user experience.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waqas12-lab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/waqas12-lab">
+    <img src="https://img.shields.io/github/followers/waqas12-lab?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Android%20%7C%20AI%2FML-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -13,11 +29,13 @@ Passionate about building modern Android applications, Python projects, and AI-p
 ## 🚀 About Me
 
 - 📱 Android Developer using **Kotlin & Java**
+- 💻 C++ Developer
 - 🐍 Python Developer
 - 🤖 AI/ML & Data Science Learner
-- 🎵 Built Professional Android Media Player Project
-- 🎮 Created Red Fly Ball Game using Python
-- 🔥 Interested in APIs, Firebase, and AI integration
+- 🎵 Building **SonicFlow** Cross-Platform Audio Player
+- 📝 Created **NoteFlow** Android Notes App
+- 🎮 Created **Red Fly Ball Game**
+- 🔥 Interested in APIs, Firebase, and AI Integration
 - 🎓 Software Engineering Student
 
 ---
@@ -25,12 +43,14 @@ Passionate about building modern Android applications, Python projects, and AI-p
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp" />
 </p>
 
 ### 📱 Android Development
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 </p>
 
@@ -41,8 +61,9 @@ Passionate about building modern Android applications, Python projects, and AI-p
 - Material Design
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,firebase" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,firebase,postman" />
 </p>
 
 - Android Studio
@@ -51,39 +72,50 @@ Passionate about building modern Android applications, Python projects, and AI-p
 - VS Code
 - Firebase Console
 - Postman
-  
+
+---
+
 ## 📂 Featured Projects
 
+### 🎵 SonicFlow
+Professional Cross-Platform Audio Player
+
+- 🎧 Audio Playback
+- 📂 Playlist Management
+- 🎨 Modern UI
+- ⚡ Smooth Performance
+
+---
+
 ### 📱 Android Media Player Project
-Professional Android media player application focused on:
+
 - Media Player API Integration
 - Audio Playback
 - Modern UI Design
-- Smooth Media Handling
 - Kotlin Development
 
 ---
 
 ### 🎮 Red Fly Ball Game
-Python game project focused on:
+
 - Game Logic
-- Problem Solving
 - Python Programming
 - Basic Game Mechanics
-  
+
 ---
 
 ### 📝 NoteFlow
-Modern offline-first Android Notes App built with Kotlin, Jetpack Compose, Room Database, MVVM, StateFlow, Coroutines, and Material 3.
 
-🔗 Repository:  
+Modern Android Notes App built with Kotlin & Jetpack Compose.
+
+🔗 Repository:
 https://github.com/waqas12-lab/NoteFlow
 
 ### ✨ Features
+
 - Material 3 UI
 - Room Database
 - MVVM Architecture
-- StateFlow
 - Dark Mode
 - Search & Pin Notes
 
@@ -92,7 +124,16 @@ https://github.com/waqas12-lab/NoteFlow
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqas12-lab&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=waqas12-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas12-lab&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqas12-lab&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqas12-lab&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -110,9 +151,10 @@ https://github.com/waqas12-lab/NoteFlow
 
 ## 🌐 Connect With Me
 
-- GitHub: [waqasu1290-lab](https://github.com/waqasu1290-lab)
+- GitHub: https://github.com/waqas12-lab
 - Email: waqasu1290@gmail.com
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub profile! ⭐</h3>
+```
