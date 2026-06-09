@@ -18,22 +18,43 @@
 
 ## 👨‍💻 About Me
 
-```
+<table align="center">
+<tr>
+<td width="50%">
 
-<table>
-  <tr>
-    <td>📍 Based in Pakistan 🇵🇰</td>
-    <td>🎓 Software Engineering student</td>
-    <td>📱 Android dev — Kotlin, MVVM, Compose</td>
-  </tr>
-  <tr>
-    <td>🖥️ C++ desktop app developer</td>
-    <td>🤖 Actively learning AI/ML & Data Science</td>
-    <td>🌍 Goal: work remotely as SE</td>
-  </tr>
+### 🚀 Profile
+
+* 🇵🇰 **Location:** Pakistan
+* 🎓 **Education:** Software Engineering Student
+* 🌍 **Career Goal:** Remote Software Engineer
+* 🤖 **Currently Learning:** AI/ML & Data Science
+
+</td>
+
+<td width="50%">
+
+### 💻 Expertise
+
+* 📱 Android Development
+
+  * Kotlin
+  * MVVM
+  * Jetpack Compose
+
+* 🖥️ C++ Desktop Applications
+
+* 🐍 Python Development
+
+* 🚀 Building Modern Software Solutions
+
+</td>
+</tr>
 </table>
 
----
+<p align="center">
+  <i>Passionate about building high-quality Android applications, desktop software, and AI-powered solutions with clean architecture and modern development practices.</i>
+</p>
+
 
 ## 🛠️ Tech Stack
 
