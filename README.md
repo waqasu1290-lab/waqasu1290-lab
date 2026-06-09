@@ -18,18 +18,6 @@
 
 ## 👨‍💻 About Me
 
-```kotlin
-data class Developer(
-    val name        : String       = "Muhammad Waqas",
-    val location    : String       = "Pakistan 🇵🇰",
-    val role        : String       = "Android Developer & SE Student",
-    val languages   : List<String> = listOf("Kotlin", "Java", "Python", "C++"),
-    val currentBuild: String       = "SonicFlow — C++ Cross-Platform Desktop Audio Player 🎵",
-    val shipped     : String       = "NoteFlow — Offline-first Android Notes App 📝",
-    val learning    : List<String> = listOf("AI/ML", "Data Science", "Advanced Jetpack Compose"),
-    val interests   : List<String> = listOf("Firebase", "REST APIs", "AI Integration", "MVVM"),
-    val goal        : String       = "Remote Software Engineer & AI/ML Engineer 🌍"
-)
 ```
 
 <table>
